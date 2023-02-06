@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace References_Livingston_Stephen
-{
+{   /// <summary>
+/// Adds Properties and defines a void method called Stringify into an interface. 
+/// </summary>
     interface IAutomobile
     {
 
